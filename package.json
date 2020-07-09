@@ -6,7 +6,7 @@
     "engines": {
         "vscode": "^1.46.0"
     },
-    "publisher": "Jakub Gawlik",
+    "publisher": "caasi",
     "repository": "https://github.com/caasi-dev/chpastel-vscode",
     "license": "MIT",
     "icon": "icon.png",

@@ -1,14 +1,12 @@
-# README
-## This is the README for your extension "chpastel-vscode"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# CHPastel vscode
+This is VSCode theme based of [CHPastel colour scheme](https://caasi.dev/post/chpastel/). It is heavily inspired by [Solarized](https://ethanschoonover.com/solarized/) by [Ethan Schoonover](https://ethanschoonover.com/).
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+Solarized colour scheme is great and it was created with a purpose that was working for me for a very long time (around 5 years), however, I started to appreciate darker themes.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+Yes there are a lot of different variations available out there, but they are usually to close to the original, or to contrasty.
 
-**Enjoy!**
+## Screenshots
+Coming soon
 
+## Issues
+Any issues or sugestions? File an issue [here](https://github.com/caasi-dev/chpastel-vscode/issues)
