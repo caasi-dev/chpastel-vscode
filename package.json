@@ -6,6 +6,15 @@
     "engines": {
         "vscode": "^1.46.0"
     },
+    "publisher": "Jakub Gawlik",
+    "repository": "https://github.com/caasi-dev/chpastel-vscode",
+    "license": "MIT",
+    "icon": "icon.png",
+    "keywords": [
+        "chpastel",
+        "solarized",
+        "dark"
+    ],
     "categories": [
         "Themes"
     ],
