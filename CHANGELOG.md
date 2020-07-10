@@ -1,9 +1,13 @@
 # Change Log
 
-All notable changes to the "chpastel-vscode" extension will be documented in this file.
+1.0.1
+- activityBarBadge.background -> #57678a,
+- peekViewTitle.background -> #57678a,
+- peekView.border -> #6792bd,
+- peekViewResult.background -> #57678a,
+- peekViewEditorGutter.background -> #57678a,
+- peekViewEditor.matchHighlightBackground -> #57678a40,
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
-
+1.0.0
 - Initial release
