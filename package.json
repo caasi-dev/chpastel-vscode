@@ -2,12 +2,12 @@
     "name": "chpastel-vscode",
     "displayName": "CHPastel",
     "description": "16 colours colour scheme heavily inspired by Solarized colour scheme.",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "engines": {
         "vscode": "^1.46.0"
     },
     "publisher": "caasi",
-    "repository": "https://github.com/caasi-dev/chpastel-vscode",
+    "repository": "https://gitlab.com/chpastel/chpastel-vscode.git",
     "license": "MIT",
     "icon": "icon.png",
     "keywords": [

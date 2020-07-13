@@ -1,5 +1,10 @@
 # Change Log
-1.0.2
+
+## 1.0.3
+- git repository update
+
+
+## 1.0.2
 - button.background -> #57678a99,
 - editor.findMatchBackground -> #8e6b7d60,
 - editor.findMatchHighlightBackground -> #8e6b7d60,
@@ -13,7 +18,7 @@
 - welcomePage.background -> #0f1c1f
 
 
-1.0.1
+## 1.0.1
 - activityBarBadge.background -> #57678a,
 - peekView.border -> #6792bd,
 - peekViewEditor.matchHighlightBackground -> #57678a40.
@@ -22,5 +27,5 @@
 - peekViewTitle.background -> #57678a,
 
 
-1.0.0
+## 1.0.0
 - Initial release
