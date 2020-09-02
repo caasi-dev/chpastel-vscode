@@ -16,7 +16,7 @@
 - welcomePage.background -> #0f1c1f
 
 
-1.0.1
+## 1.0.1
 - activityBarBadge.background -> #57678a,
 - peekView.border -> #6792bd,
 - peekViewEditor.matchHighlightBackground -> #57678a40.
@@ -25,5 +25,5 @@
 - peekViewTitle.background -> #57678a,
 
 
-1.0.0
+## 1.0.0
 - Initial release

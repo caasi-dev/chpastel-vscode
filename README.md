@@ -9,4 +9,4 @@ Yes there are a lot of different variations available out there, but they are us
 Coming soon
 
 ## Issues
-Any issues or sugestions? File an issue [here](https://github.com/caasi-dev/chpastel-vscode/issues)
+Any issues or sugestions? File an issue [here](https://gitlab.com/chpastel/chpastel-vscode/-/issues)

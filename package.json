@@ -7,7 +7,7 @@
         "vscode": "^1.46.0"
     },
     "publisher": "caasi",
-    "repository": "https://github.com/caasi-dev/chpastel-vscode",
+    "repository": "https://gitlab.com/chpastel/chpastel-vscode.git",
     "license": "MIT",
     "icon": "icon.png",
     "keywords": [
