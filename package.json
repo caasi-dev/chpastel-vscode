@@ -2,7 +2,7 @@
     "name": "chpastel-vscode",
     "displayName": "CHPastel",
     "description": "16 colours colour scheme heavily inspired by Solarized colour scheme.",
-    "version": "2.0",
+    "version": "2.0.0",
     "engines": {
         "vscode": "^1.46.0"
     },
