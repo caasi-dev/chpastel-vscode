@@ -1,4 +1,7 @@
 # Change Log
+2.0
+- CHPastel gets brighter
+
 1.0.2
 - button.background -> #57678a99,
 - editor.findMatchBackground -> #8e6b7d60,
