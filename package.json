@@ -1,8 +1,8 @@
 {
     "name": "chpastel-vscode",
     "displayName": "CHPastel",
-    "description": "16 colours colour scheme heavily inspired by Solarized colour scheme.",
-    "version": "2.0.0",
+    "description": "16 colours colour scheme that tries to find a balance between 2 big boys Solarized and Dracula colour schemes.",
+    "version": "2.0.1",
     "engines": {
         "vscode": "^1.46.0"
     },
@@ -13,6 +13,7 @@
     "keywords": [
         "chpastel",
         "solarized",
+        "dracula",
         "dark"
     ],
     "categories": [

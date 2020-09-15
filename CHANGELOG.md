@@ -1,4 +1,8 @@
 # Change Log
+2.1 Updates:
+- "editor.wordHighlightBackground": "#dbc69427",
+- "editor.wordHighlightBorder": "#dbc694b6",
+
 2.0
 - CHPastel gets brighter
 
