@@ -1,4 +1,7 @@
 # Change Log
+3.0 CHPastel gets brighter
+- Refer to a [blog post](https://caasi.dev/post/chpastel-brighter/) for reasoning
+
 2.2 Updates:
 - "dropdown.background": "#45545d"
 - "dropdown.border": "#545f76"
