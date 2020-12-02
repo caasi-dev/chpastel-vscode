@@ -32,7 +32,7 @@
 		"editorGroup.emptyBackground": "#282c34",
 		"editorGroupHeader.tabsBackground": "#282c34",
 		"editorGutter.background": "#202329",
-		"editorHoverWidget.background": "#495d7e",
+		"editorHoverWidget.background": "#202329",
 		"editorHoverWidget.border": "#5cbb5b",
 		"editorLineNumber.foreground": "#495d7e",
 		"editorLink.activeForeground": "#d6ab63",
@@ -270,7 +270,7 @@
 			"name": "Tag start/end",
 			"scope": "punctuation.definition.tag",
 			"settings": {
-				"foreground": "#d6ab63"
+				"foreground": "#796137"
 			}
 		},
 		{

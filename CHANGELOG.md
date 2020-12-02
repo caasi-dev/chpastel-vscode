@@ -1,4 +1,10 @@
 # Change Log
+3.1 Updates:
+- project icon
+- "editorHoverWidget.background": "#202329"
+- "punctuation.definition.tag": #796137
+
+
 3.0 CHPastel gets brighter
 - Refer to a [blog post](https://caasi.dev/post/chpastel-brighter/) for reasoning
 
