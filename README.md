@@ -6,7 +6,12 @@ Solarized colour scheme is great and it was created with a purpose that was work
 Yes there are a lot of different variations available out there, but they are usually to close to the original, or to contrasty.
 
 ## Screenshots
-Coming soon
+All code credits go to:
+- [uikit](https://github.com/uikit/uikit)
+- [django](https://github.com/django/django)
+- [laravel](https://github.com/laravel/laravel)
+
+![JavaScript]()
 
 ## Issues
 Any issues or sugestions? File an issue [here](https://gitlab.com/chpastel/chpastel-vscode/-/issues)
