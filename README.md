@@ -11,7 +11,7 @@ All code credits go to:
 - [django](https://github.com/django/django)
 - [laravel](https://github.com/laravel/laravel)
 
-![JavaScript]()
+![JavaScript](https://github.com/caasi-dev/chpastel-vscode/raw/main/images/js.png)
 
 ## Issues
 Any issues or sugestions? File an issue [here](https://gitlab.com/chpastel/chpastel-vscode/-/issues)
