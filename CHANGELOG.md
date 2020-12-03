@@ -1,4 +1,7 @@
 # Change Log
+3.1.1 Updates:
+- Adds screenshots
+
 3.1 Updates:
 - project icon
 - "editorHoverWidget.background": "#202329"
