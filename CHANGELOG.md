@@ -1,28 +1,35 @@
 # Change Log
-3.1.1 Updates:
+## 3.1.2 Updates:
+- "editorCursor.foreground": "#c63957",
+- "tab.activeBackground": "#282c34",
+- "tab.activeForeground": "#a2a2a2",
+- "tab.inactiveBackground": "#293548",
+- "tab.inactiveForeground": "#a2a2a2",
+
+## 3.1.1 Updates:
 - Adds screenshots
 
-3.1 Updates:
+## 3.1 Updates:
 - project icon
 - "editorHoverWidget.background": "#202329"
 - "punctuation.definition.tag": #796137
 
 
-3.0 CHPastel gets brighter
+## 3.0 CHPastel gets brighter
 - Refer to a [blog post](https://caasi.dev/post/chpastel-brighter/) for reasoning
 
-2.2 Updates:
+## 2.2 Updates:
 - "dropdown.background": "#45545d"
 - "dropdown.border": "#545f76"
 
-2.1 Updates:
+## 2.1 Updates:
 - "editor.wordHighlightBackground": "#dbc69427"
 - "editor.wordHighlightBorder": "#dbc694b6"
 
-2.0
+## 2.0
 - CHPastel gets brighter
 
-1.0.2
+## 1.0.2
 - button.background -> #57678a99
 - editor.findMatchBackground -> #8e6b7d60
 - editor.findMatchHighlightBackground -> #8e6b7d60

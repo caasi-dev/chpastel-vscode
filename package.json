@@ -2,12 +2,12 @@
     "name": "chpastel-vscode",
     "displayName": "CHPastel",
     "description": "8 colours scheme that tries to find a balance between 2 big boys Solarized and Dracula colour schemes.",
-    "version": "3.1.1",
+    "version": "3.1.2",
     "engines": {
         "vscode": "^1.46.0"
     },
     "publisher": "caasi",
-    "repository": "https://gitlab.com/chpastel/chpastel-vscode.git",
+    "repository": "https://github.com/caasi-dev/chpastel-vscode",
     "license": "MIT",
     "icon": "icon.png",
     "keywords": [
